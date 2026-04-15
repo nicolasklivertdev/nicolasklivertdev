@@ -23,7 +23,15 @@ Objetivo claro: evoluir para Full Stack com domínio prático das tecnologias.
 
 ## Projetos
 
-Aqui você encontrará meus projetos práticos, focados em aprendizado real e evolução contínua.
+Principais projetos:
+
+- [Marketplace - Painel de Vendedor](https://nicolasklivertdev.github.io/Marketplace-painel-de-vendedor/)  
+  📁 Repositório: https://github.com/nicolasklivertdev/Marketplace-painel-de-vendedor
+
+- [AB Filmes - Gerenciador de Filmes](https://nicolasklivertdev.github.io/AB-filmes-gerenciador-de-filmes/)  
+  📁 Repositório: https://github.com/nicolasklivertdev/AB-filmes-gerenciador-de-filmes
+
+Ver mais: [](https://github.com/nicolasklivertdev)
 
 ## Contato
 
