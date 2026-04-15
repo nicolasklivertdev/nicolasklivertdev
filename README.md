@@ -31,7 +31,7 @@ Principais projetos:
 - [AB Filmes - Gerenciador de Filmes](https://nicolasklivertdev.github.io/AB-filmes-gerenciador-de-filmes/)  
   📁 Repositório: https://github.com/nicolasklivertdev/AB-filmes-gerenciador-de-filmes
 
-Ver mais: [](https://github.com/nicolasklivertdev)
+Ver mais: https://github.com/nicolasklivertdev
 
 ## Contato
 
