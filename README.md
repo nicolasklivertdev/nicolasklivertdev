@@ -27,7 +27,7 @@ Aqui você encontrará meus projetos práticos, focados em aprendizado real e ev
 
 ## Contato
 
-💼 LinkedIn: [nk-klivert](https://www.linkedin.com/in/nk-klivert-752868403)
+💼 LinkedIn: [nk-klivert](https://www.linkedin.com/in/nk-klivert-752868403)  
 📧 Email: [nicolasklivert57@gmail.com](mailto:nicolasklivert57@gmail.com)
 
 Aberto a feedbacks diretos e sugestões construtivas!
