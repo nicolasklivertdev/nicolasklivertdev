@@ -1,16 +1,33 @@
-## Hi there 👋
+# Nicolas Klivert
 
-<!--
-**nicolasklivertdev/nicolasklivertdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor iniciante focado em construção sólida de base.
 
-Here are some ideas to get you started:
+## Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em Python, desenvolvendo lógica de programação e resolução de problemas.
+HTML e CSS fazem parte da base já consolidada (Flexbox, Grid e responsividade).
+
+Objetivo claro: evoluir para Full Stack com domínio prático das tecnologias.
+
+## Tecnologias
+
+* HTML5
+* CSS3 (Flexbox, Grid, Responsivo)
+* Python (básico)
+
+## Em progresso
+
+* JavaScript
+* Estruturação de projetos reais
+* Boas práticas de código
+
+## Projetos
+
+Aqui você encontrará meus projetos práticos, focados em aprendizado real e evolução contínua.
+
+## Contato
+
+💼 LinkedIn: [nk-klivert](https://www.linkedin.com/in/nk-klivert-752868403)
+📧 Email: [nicolasklivert57@gmail.com](mailto:nicolasklivert57@gmail.com)
+
+Aberto a feedbacks diretos e sugestões construtivas!
